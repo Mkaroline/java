@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PrimeiroPrograma{
+public class PrimeiroPrograma {
     public static void main (String[] args){
     String nome;
     Scanner entrada = new Scanner (System.in);
