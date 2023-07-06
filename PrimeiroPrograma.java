@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class PrimeiroPrograma {
     public static void main (String[] args){
@@ -13,4 +13,4 @@ public class PrimeiroPrograma {
     entrada.close();
 }
 
-}
+}*/
