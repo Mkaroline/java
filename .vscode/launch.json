@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Areadoquedrado",
+            "request": "launch",
+            "mainClass": "Areadoquedrado",
+            "projectName": "java_40f5cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Dados",
+            "request": "launch",
+            "mainClass": "Dados",
+            "projectName": "java_40f5cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "java_40f5cc0c"
+        },
+        {
+            "type": "java",
+            "name": "Temperatura",
+            "request": "launch",
+            "mainClass": "Temperatura",
+            "projectName": "java_40f5cc0c"
+        },
+        {
+            "type": "java",
+            "name": "converterangulo",
+            "request": "launch",
+            "mainClass": "converterangulo",
+            "projectName": "java_40f5cc0c"
+        },
+        {
+            "type": "java",
+            "name": "somaemedia",
+            "request": "launch",
+            "mainClass": "somaemedia",
+            "projectName": "java_40f5cc0c"
+        }
+    ]
+}

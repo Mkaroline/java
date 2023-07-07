@@ -14,7 +14,7 @@ public class  Dados {//nome dp programa
     System.out.print("Informe quanto anos vc tem: ");
     ano = entrada.nextInt();
 
-    System.out.println("Nome do Usuario: " + nome);
+   System.out.println("Nome do Usuario: " + nome);
     System.out.println("Nome da cidade: " + cidade);
     System.out.println("Idade do usuario: " + ano);
 
